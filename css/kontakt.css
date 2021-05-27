@@ -1,0 +1,29 @@
+.kontakt {
+    font-size: 45px;
+    margin-left: 30px;
+    margin: 30px;
+}
+.mail {
+    font-size: 30px;
+    margin-left: 30px;
+}
+.form {
+    margin-left: 30px;
+    font-size: 25px;
+}
+.jaellernej {
+    margin-left: 30px;
+    font-size: 25px;
+}
+#namn {
+    height: 40px;
+    width: 350px;
+}
+#meddelande {
+    height: 150px;
+    width: 350px;
+}
+#email {
+    height: 40px;
+    width: 350px;
+}
